@@ -1,5 +1,5 @@
 # ansible-webapp
-# Simple web app deployment through Ansible and a docker container
+Simple web app deployment through Ansible and a docker container
 
 # Check your file syntax 
 Install ansible lint
